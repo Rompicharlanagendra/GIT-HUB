@@ -5,4 +5,7 @@ Commands for GIT to perform:-
 3)git status
 4)git commit -m "message"
 5)git log
+6)git remote add origin "<URL to repository>"    --- Local repository to remote repository
+7)
+
  
